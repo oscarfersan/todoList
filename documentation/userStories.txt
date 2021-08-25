@@ -1,0 +1,9 @@
+As a user:
+	-Login
+	-Logout
+	-Register
+	-Add note
+	-Remove note
+	-Update note
+	-Drop all notes
+	-Multi Select
